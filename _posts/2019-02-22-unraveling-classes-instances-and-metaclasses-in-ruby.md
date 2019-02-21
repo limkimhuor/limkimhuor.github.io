@@ -11,7 +11,7 @@ Trong bài viết này sẽ học về class và các instance method làm việ
 ### Class Instances và Instance Methods
 Để hiểu tại sao metaclass sử dụng trong Ruby, hãy thử sự khác biệt giữa instance và class methods.
 
-Trong RUby một *class* là một object định nghĩa thiết kế để tạo các object khác. Các class định nghĩa các method là sẵn có trong bất cứ instance của class đó.
+Trong Ruby một *class* là một object định nghĩa thiết kế để tạo các object khác. Các class định nghĩa các method là sẵn có trong bất cứ instance của class đó.
 
 Định nghĩa một method trong một class tạo một *instance method* với class đó. Instance tiếp theo của class đó sẽ có method sẵn có.
 
