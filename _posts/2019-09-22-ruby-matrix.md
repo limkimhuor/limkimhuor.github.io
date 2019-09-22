@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cách tạo và làm việc với ma trận trong Ruby"
-date: 2019-02-22
+date: 2019-09-22
 ---
 
 > Bài viết này dịch từ bài gốc - [What is A Matrix & How to Use It in Ruby?](https://www.rubyguides.com/2019/01/ruby-matrix/)
